@@ -3,7 +3,7 @@ import { Loader2, Zap, Upload, Image as ImageIcon, GitFork, Crown, Sun, Watch, S
 
 // --- CONFIGURATION AND UTILITIES ---
 
-const MODEL_NAME = "gemini-2.5-flash-image-preview";
+const MODEL_NAME = "gemini-2.0-flash-exp";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent`;
 
 // Categorized dress choices with highly descriptive AI prompts
