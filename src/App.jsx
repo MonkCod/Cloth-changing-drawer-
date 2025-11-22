@@ -141,7 +141,7 @@ const App = () => {
         },
     };
 
-    const apiKey = ""; 
+    const apiKey = "AIzaSyCxou4XumgBqPEFurtEBWTPGgMIkpwhnw4"; 
 
     try {
         const response = await withRetry(async () => {
